@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<Games>
+      <Game> Name="Wii Sports" Year="2006" Genre="Sports" Publisher="Nintendo" </Game>
+      <Game> Name="Super Mario Bros." Year="1985" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Mario Kart Wii" Year="2008" Genre="Racing" Publisher="Nintendo" </Game>
+      <Game> Name="Wii Sports Resort" Year="2009" Genre="Sports" Publisher="Nintendo" </Game>
+      <Game> Name="Pokemon Red/Pokemon Blue" Year="1996" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Tetris" Year="1989" Genre="Puzzle" Publisher="Nintendo" </Game>
+      <Game> Name="New Super Mario Bros." Year="2006" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Wii Play" Year="2006" Genre="Misc" Publisher="Nintendo" </Game>
+      <Game> Name="Duck Hunt" Year="1984" Genre="Shooter" Publisher="Nintendo" </Game>
+      <Game> Name="Nintendogs" Year="2005" Genre="Simulation" Publisher="Nintendo" </Game>
+      <Game> Name="Mario Kart DS" Year="2005" Genre="Racing" Publisher="Nintendo" </Game>
+      <Game> Name="Pokemon Gold/Pokemon Silver" Year="1999" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Wii Fit" Year="2007" Genre="Sports" Publisher="Nintendo" </Game>
+      <Game> Name="Wii Fit Plus" Year="2009" Genre="Sports" Publisher="Nintendo" </Game>
+      <Game> Name="Kinect Adventures!" Year="2010" Genre="Misc" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Grand Theft Auto V" Year="2013" Genre="Action" Publisher="Take-Two Interactive" </Game>
+      <Game> Name="Grand Theft Auto: San Andreas" Year="2004" Genre="Action" Publisher="Take-Two Interactive" </Game>
+      <Game> Name="Super Mario World" Year="1990" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Brain Age: Train Your Brain in Minutes a Day" Year="2005" Genre="Misc" Publisher="Nintendo" </Game>
+      <Game> Name="Pokemon Diamond/Pokemon Pearl" Year="2006" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Super Mario Land" Year="1989" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Super Mario Bros. 3" Year="1988" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Grand Theft Auto: Vice City" Year="2002" Genre="Action" Publisher="Take-Two Interactive" </Game>
+      <Game> Name="Pokemon Ruby/Pokemon Sapphire" Year="2002" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Pokemon Black/Pokemon White" Year="2010" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Brain Age 2: More Training in Minutes a Day" Year="2005" Genre="Puzzle" Publisher="Nintendo" </Game>
+      <Game> Name="Gran Turismo 3: A-Spec" Year="2001" Genre="Racing" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Call of Duty: Modern Warfare 3" Year="2011" Genre="Shooter" Publisher="Activision" </Game>
+      <Game> Name="Pokemon Yellow: Special Pikachu Edition" Year="1998" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Call of Duty: Black Ops" Year="2010" Genre="Shooter" Publisher="Activision" </Game>
+      <Game> Name="Pokemon X/Pokemon Y" Year="2013" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Call of Duty: Black Ops 3" Year="2015" Genre="Shooter" Publisher="Activision" </Game>
+      <Game> Name="Call of Duty: Black Ops II" Year="2012" Genre="Shooter" Publisher="Activision" </Game>
+      <Game> Name="Call of Duty: Modern Warfare 2" Year="2009" Genre="Shooter" Publisher="Activision" </Game>
+      <Game> Name="Grand Theft Auto III" Year="2001" Genre="Action" Publisher="Take-Two Interactive" </Game>
+      <Game> Name="Super Smash Bros. Brawl" Year="2008" Genre="Fighting" Publisher="Nintendo" </Game>
+      <Game> Name="Animal Crossing: Wild World" Year="2005" Genre="Simulation" Publisher="Nintendo" </Game>
+      <Game> Name="Mario Kart 7" Year="2011" Genre="Racing" Publisher="Nintendo" </Game>
+      <Game> Name="Halo 3" Year="2007" Genre="Shooter" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Pokemon HeartGold/Pokemon SoulSilver" Year="2009" Genre="Action" Publisher="Nintendo" </Game>
+      <Game> Name="Super Mario 64" Year="1996" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Gran Turismo 4" Year="2004" Genre="Racing" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Super Mario Galaxy" Year="2007" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Pokemon Omega Ruby/Pokemon Alpha Sapphire" Year="2014" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Super Mario Land 2: 6 Golden Coins" Year="1992" Genre="Adventure" Publisher="Nintendo" </Game>
+      <Game> Name="Grand Theft Auto IV" Year="2008" Genre="Action" Publisher="Take-Two Interactive" </Game>
+      <Game> Name="Gran Turismo" Year="1997" Genre="Racing" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Super Mario 3D Land" Year="2011" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Gran Turismo 5" Year="2010" Genre="Racing" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Super Mario All-Stars" Year="1993" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Pokemon FireRed/Pokemon LeafGreen" Year="2004" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Just Dance 3" Year="2011" Genre="Misc" Publisher="Ubisoft" </Game>
+      <Game> Name="Call of Duty: Ghosts" Year="2013" Genre="Shooter" Publisher="Activision" </Game>
+      <Game> Name="Halo: Reach" Year="2010" Genre="Shooter" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Mario Kart 64" Year="1996" Genre="Racing" Publisher="Nintendo" </Game>
+      <Game> Name="New Super Mario Bros. 2" Year="2012" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Halo 4" Year="2012" Genre="Shooter" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Final Fantasy VII" Year="1997" Genre="Role-Playing" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Just Dance 2" Year="2010" Genre="Misc" Publisher="Ubisoft" </Game>
+      <Game> Name="Gran Turismo 2" Year="1999" Genre="Racing" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Call of Duty 4: Modern Warfare" Year="2007" Genre="Shooter" Publisher="Activision" </Game>
+      <Game> Name="Donkey Kong Country" Year="1994" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Minecraft" Year="2013" Genre="Misc" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Animal Crossing: New Leaf" Year="2012" Genre="Simulation" Publisher="Nintendo" </Game>
+      <Game> Name="Mario Party DS" Year="2007" Genre="Misc" Publisher="Nintendo" </Game>
+      <Game> Name="The Elder Scrolls V: Skyrim" Year="2011" Genre="Role-Playing" Publisher="Bethesda Softworks" </Game>
+      <Game> Name="Super Mario Kart" Year="1992" Genre="Racing" Publisher="Nintendo" </Game>
+      <Game> Name="FIFA 16" Year="2015" Genre="Sports" Publisher="Electronic Arts" </Game>
+      <Game> Name="Wii Party" Year="2010" Genre="Misc" Publisher="Nintendo" </Game>
+      <Game> Name="Halo 2" Year="2004" Genre="Shooter" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Mario Party 8" Year="2007" Genre="Misc" Publisher="Nintendo" </Game>
+      <Game> Name="Pokemon Black 2/Pokemon White 2" Year="2012" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="FIFA Soccer 13" Year="2012" Genre="Action" Publisher="Electronic Arts" </Game>
+      <Game> Name="The Sims 3" Year="2009" Genre="Simulation" Publisher="Electronic Arts" </Game>
+      <Game> Name="GoldenEye 007" Year="1997" Genre="Shooter" Publisher="Nintendo" </Game>
+      <Game> Name="Mario &amp; Sonic at the Olympic Games" Year="2007" Genre="Sports" Publisher="Sega" </Game>
+      <Game> Name="Final Fantasy X" Year="2001" Genre="Role-Playing" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Final Fantasy VIII" Year="1999" Genre="Role-Playing" Publisher="SquareSoft" </Game>
+      <Game> Name="Pokemon Platinum Version" Year="2008" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Pac-Man" Year="1982" Genre="Puzzle" Publisher="Atari" </Game>
+      <Game> Name="Grand Theft Auto: Liberty City Stories" Year="2005" Genre="Action" Publisher="Take-Two Interactive" </Game>
+      <Game> Name="Super Mario Galaxy 2" Year="2010" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Star Wars Battlefront (2015)" Year="2015" Genre="Shooter" Publisher="Electronic Arts" </Game>
+      <Game> Name="Call of Duty: Advanced Warfare" Year="2014" Genre="Shooter" Publisher="Activision" </Game>
+      <Game> Name="The Legend of Zelda: Ocarina of Time" Year="1998" Genre="Action" Publisher="Nintendo" </Game>
+      <Game> Name="Crash Bandicoot 2: Cortex Strikes Back" Year="1997" Genre="Platform" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Super Mario Bros. 2" Year="1988" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Super Smash Bros. for Wii U and 3DS" Year="2014" Genre="Fighting" Publisher="Nintendo" </Game>
+      <Game> Name="Call of Duty: World at War" Year="2008" Genre="Shooter" Publisher="Activision" </Game>
+      <Game> Name="Battlefield 3" Year="2011" Genre="Shooter" Publisher="Electronic Arts" </Game>
+      <Game> Name="The Legend of Zelda: Twilight Princess" Year="2006" Genre="Action" Publisher="Nintendo" </Game>
+      <Game> Name="Just Dance" Year="2009" Genre="Misc" Publisher="Ubisoft" </Game>
+      <Game> Name="Need for Speed Underground" Year="2003" Genre="Racing" Publisher="Electronic Arts" </Game>
+      <Game> Name="Tekken 3" Year="1998" Genre="Fighting" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Crash Bandicoot 3: Warped" Year="1998" Genre="Platform" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Super Smash Bros. Melee" Year="2001" Genre="Fighting" Publisher="Nintendo" </Game>
+      <Game> Name="Mario Kart 8" Year="2014" Genre="Racing" Publisher="Nintendo" </Game>
+      <Game> Name="Fallout 4" Year="2015" Genre="Role-Playing" Publisher="Bethesda Softworks" </Game>
+      <Game> Name="Mario Kart: Double Dash!!" Year="2003" Genre="Racing" Publisher="Nintendo" </Game>
+      <Game> Name="Just Dance 4" Year="2012" Genre="Misc" Publisher="Ubisoft" </Game>
+      <Game> Name="FIFA 14" Year="2013" Genre="Sports" Publisher="Electronic Arts" </Game>
+      <Game> Name="Need for Speed Underground 2" Year="2004" Genre="Racing" Publisher="Electronic Arts" </Game>
+      <Game> Name="Medal of Honor: Frontline" Year="2002" Genre="Shooter" Publisher="Electronic Arts" </Game>
+      <Game> Name="Uncharted 3: Drake&apos;s Deception" Year="2011" Genre="Action" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Crash Bandicoot" Year="1996" Genre="Platform" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Zumba Fitness" Year="2010" Genre="Sports" Publisher="505 Games" </Game>
+      <Game> Name="Gears of War 2" Year="2008" Genre="Shooter" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Uncharted 2: Among Thieves" Year="2009" Genre="Action" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="FIFA 12" Year="2011" Genre="Sports" Publisher="Electronic Arts" </Game>
+      <Game> Name="Big Brain Academy" Year="2005" Genre="Misc" Publisher="Nintendo" </Game>
+      <Game> Name="Red Dead Redemption" Year="2010" Genre="Action" Publisher="Take-Two Interactive" </Game>
+      <Game> Name="FIFA 15" Year="2014" Genre="Sports" Publisher="Electronic Arts" </Game>
+      <Game> Name="Donkey Kong Country Returns" Year="2010" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="The Legend of Zelda" Year="1986" Genre="Action" Publisher="Nintendo" </Game>
+      <Game> Name="Assassin&apos;s Creed III" Year="2012" Genre="Action" Publisher="Ubisoft" </Game>
+      <Game> Name="Halo: Combat Evolved" Year="2001" Genre="Shooter" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Pokemon Emerald Version" Year="2004" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Kingdom Hearts" Year="2002" Genre="Role-Playing" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Pokemon Crystal Version" Year="2000" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Halo 3: ODST" Year="2009" Genre="Shooter" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Super Mario Sunshine" Year="2002" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Street Fighter II: The World Warrior" Year="1992" Genre="Fighting" Publisher="Capcom" </Game>
+      <Game> Name="World of Warcraft" Year="2004" Genre="Role-Playing" Publisher="Activision" </Game>
+      <Game> Name="Driver" Year="1999" Genre="Action" Publisher="GT Interactive" </Game>
+      <Game> Name="Kinect Sports" Year="2010" Genre="Sports" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Gears of War 3" Year="2011" Genre="Shooter" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Gears of War" Year="2006" Genre="Shooter" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Metal Gear Solid 2: Sons of Liberty" Year="2001" Genre="Action" Publisher="Konami Digital Entertainment" </Game>
+      <Game> Name="Sonic the Hedgehog 2" Year="1992" Genre="Platform" Publisher="Sega" </Game>
+      <Game> Name="Metal Gear Solid 4: Guns of the Patriots" Year="2008" Genre="Action" Publisher="Konami Digital Entertainment" </Game>
+      <Game> Name="Metal Gear Solid" Year="1998" Genre="Action" Publisher="Konami Digital Entertainment" </Game>
+      <Game> Name="The Last of Us" Year="2013" Genre="Action" Publisher="Sony Computer Entertainment Europe" </Game>
+      <Game> Name="Final Fantasy XII" Year="2006" Genre="Role-Playing" Publisher="Square Enix" </Game>
+      <Game> Name="LittleBigPlanet" Year="2008" Genre="Platform" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Dragon Quest IX: Sentinels of the Starry Skies" Year="2009" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="LEGO Star Wars: The Complete Saga" Year="2007" Genre="Action" Publisher="LucasArts" </Game>
+      <Game> Name="Resident Evil 2" Year="1998" Genre="Action" Publisher="Virgin Interactive" </Game>
+      <Game> Name="Tekken 2" Year="1996" Genre="Fighting" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Cooking Mama" Year="2006" Genre="Simulation" Publisher="505 Games" </Game>
+      <Game> Name="Destiny" Year="2014" Genre="Shooter" Publisher="Activision" </Game>
+      <Game> Name="Assassin&apos;s Creed II" Year="2009" Genre="Action" Publisher="Ubisoft" </Game>
+      <Game> Name="Super Smash Bros." Year="1999" Genre="Fighting" Publisher="Nintendo" </Game>
+      <Game> Name="Assassin&apos;s Creed" Year="2007" Genre="Adventure" Publisher="Ubisoft" </Game>
+      <Game> Name="Batman: Arkham City" Year="2011" Genre="Action" Publisher="Warner Bros. Interactive Entertainment" </Game>
+      <Game> Name="Forza Motorsport 3" Year="2009" Genre="Racing" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Monster Hunter Freedom Unite" Year="2008" Genre="Role-Playing" Publisher="Capcom" </Game>
+      <Game> Name="Super Mario Advance" Year="2001" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Mario Kart: Super Circuit" Year="2001" Genre="Racing" Publisher="Nintendo" </Game>
+      <Game> Name="Pokemon Stadium" Year="1999" Genre="Strategy" Publisher="Nintendo" </Game>
+      <Game> Name="Crash Bandicoot: The Wrath of Cortex" Year="2001" Genre="Platform" Publisher="Universal Interactive" </Game>
+      <Game> Name="Final Fantasy XIII" Year="2009" Genre="Role-Playing" Publisher="Square Enix" </Game>
+      <Game> Name="Dr. Mario" Year="1989" Genre="Puzzle" Publisher="Nintendo" </Game>
+      <Game> Name="Pokemon Pinball" Year="1999" Genre="Misc" Publisher="Nintendo" </Game>
+      <Game> Name="Final Fantasy IX" Year="2000" Genre="Role-Playing" Publisher="SquareSoft" </Game>
+      <Game> Name="Final Fantasy X-2" Year="2003" Genre="Role-Playing" Publisher="Electronic Arts" </Game>
+      <Game> Name="Donkey Kong 64" Year="1999" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Professor Layton and the Curious Village" Year="2007" Genre="Puzzle" Publisher="Nintendo" </Game>
+      <Game> Name="Tomb Raider II" Year="1997" Genre="Action" Publisher="Eidos Interactive" </Game>
+      <Game> Name="Madden NFL 2004" Year="N/A" Genre="Sports" Publisher="Electronic Arts" </Game>
+      <Game> Name="Dragon Quest VIII: Journey of the Cursed King" Year="2004" Genre="Role-Playing" Publisher="Square Enix" </Game>
+      <Game> Name="Diablo III" Year="2012" Genre="Role-Playing" Publisher="Activision" </Game>
+      <Game> Name="New Super Mario Bros. U" Year="2012" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Super Mario Land 3: Wario Land" Year="1994" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="The Legend of Zelda: Phantom Hourglass" Year="2007" Genre="Action" Publisher="Nintendo" </Game>
+      <Game> Name="Donkey Kong Country 2: Diddy&apos;s Kong Quest" Year="1995" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Tomodachi Life" Year="2013" Genre="Simulation" Publisher="Nintendo" </Game>
+      <Game> Name="Medal of Honor: Rising Sun" Year="2003" Genre="Shooter" Publisher="Electronic Arts" </Game>
+      <Game> Name="Kirby&apos;s Dream Land" Year="1992" Genre="Platform" Publisher="Nintendo" </Game>
+      <Game> Name="Fable III" Year="2010" Genre="Role-Playing" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Microsoft Flight Simulator" Year="1996" Genre="Simulation" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Guitar Hero II" Year="2006" Genre="Misc" Publisher="RedOctane" </Game>
+      <Game> Name="Resident Evil 5" Year="2009" Genre="Action" Publisher="Capcom" </Game>
+      <Game> Name="Grand Theft Auto: Vice City Stories" Year="2006" Genre="Action" Publisher="Take-Two Interactive" </Game>
+      <Game> Name="FIFA Soccer 11" Year="2010" Genre="Sports" Publisher="Electronic Arts" </Game>
+      <Game> Name="Resident Evil" Year="1996" Genre="Action" Publisher="Virgin Interactive" </Game>
+      <Game> Name="Tony Hawk&apos;s Pro Skater" Year="1999" Genre="Sports" Publisher="Activision" </Game>
+      <Game> Name="Warzone 2100" Year="1999" Genre="Strategy" Publisher="Eidos Interactive" </Game>
+      <Game> Name="Spyro the Dragon" Year="1998" Genre="Platform" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Link&apos;s Crossbow Training" Year="2007" Genre="Shooter" Publisher="Nintendo" </Game>
+      <Game> Name="Guitar Hero III: Legends of Rock" Year="2007" Genre="Misc" Publisher="Activision" </Game>
+      <Game> Name="Fallout 3" Year="2008" Genre="Role-Playing" Publisher="Bethesda Softworks" </Game>
+      <Game> Name="Pokemon Mystery Dungeon: Explorers of Time/Explorers of Darkness" Year="2007" Genre="Role-Playing" Publisher="Nintendo" </Game>
+      <Game> Name="Uncharted: Drake&apos;s Fortune" Year="2007" Genre="Action" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="Madden NFL 06" Year="2005" Genre="Sports" Publisher="Electronic Arts" </Game>
+      <Game> Name="Diddy Kong Racing" Year="1997" Genre="Racing" Publisher="Nintendo" </Game>
+      <Game> Name="Monster Hunter Freedom 3" Year="2010" Genre="Role-Playing" Publisher="Capcom" </Game>
+      <Game> Name="God of War III" Year="2010" Genre="Action" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="StarCraft II: Wings of Liberty" Year="2010" Genre="Strategy" Publisher="Activision" </Game>
+      <Game> Name="Crash Team Racing" Year="1999" Genre="Racing" Publisher="Sony Computer Entertainment" </Game>
+      <Game> Name="FIFA 17" Year="2016" Genre="Sports" Publisher="Electronic Arts" </Game>
+      <Game> Name="Driver 2" Year="2000" Genre="Action" Publisher="Atari" </Game>
+      <Game> Name="The Simpsons: Hit &amp; Run" Year="2003" Genre="Racing" Publisher="Vivendi Games" </Game>
+      <Game> Name="Tony Hawk&apos;s Pro Skater 2" Year="2000" Genre="Sports" Publisher="Activision" </Game>
+      <Game> Name="Animal Crossing: City Folk" Year="2008" Genre="Simulation" Publisher="Nintendo" </Game>
+      <Game> Name="The Lord of the Rings: The Two Towers" Year="2002" Genre="Action" Publisher="Electronic Arts" </Game>
+      <Game> Name="Forza Motorsport 4" Year="2011" Genre="Racing" Publisher="Microsoft Game Studios" </Game>
+      <Game> Name="Tomb Raider" Year="1996" Genre="Action" Publisher="Eidos Interactive" </Game>
+      <Game> Name="Guitar Hero III: Legends of Rock" Year="2007" Genre="Misc" Publisher="Activision" </Game>
+      <Game> Name="The Legend of Zelda: A Link to the Past" Year="1991" Genre="Action" Publisher="Nintendo" </Game>
+      <Game> Name="The Legend of Zelda: The Wind Waker" Year="2002" Genre="Action" Publisher="Nintendo" </Game>
+</Games>
